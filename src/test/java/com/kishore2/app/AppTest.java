@@ -22,4 +22,40 @@ public class AppTest
     {
         assertTrue( false );
     }
+       @Test
+    public void shouldAnswerWithTrue3()
+    {
+        assertTrue( true );
+    }
+       @Test
+    public void shouldAnswerWithTrue4()
+    {
+        assertTrue( true );
+    }
+       @Test
+    public void shouldAnswerWithTrue5()
+    {
+        assertTrue( true );
+    }
+       @Test
+    public void shouldAnswerWithTrue6()
+    {
+        assertTrue( true );
+    }
+       @Test
+    public void shouldAnswerWithTrue7()
+    {
+        assertTrue( true );
+    }
+       @Test
+    public void shouldAnswerWithTrue8()
+    {
+        assertTrue( true );
+    }
+       @Test
+    public void shouldAnswerWithTrue9()
+    {
+        assertTrue( true );
+    }
+      
 }
